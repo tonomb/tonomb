@@ -1,6 +1,6 @@
 ### Antonio
 
-### now
+### Now
 
 * web dev student at [lambda](https://lambdaschool.com/)
 
@@ -8,7 +8,7 @@
 
 * writing at [the lindy library](https://thelindylibrary.org/)
 
-### before
+### Before
 
 * co-founder at [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
 
@@ -18,17 +18,9 @@
 
 * industrial engineering at ibero👋
 
-<!--
-**tonomb/tonomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+html | css | javascript | react | redux | node | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
