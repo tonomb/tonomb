@@ -16,11 +16,11 @@
 
 * stanford summer institute for general management
 
-* industrial engineering at ibero👋
+* industrial engineering at ibero
 
 ### Skills
 
-html | css | javascript | react | redux | node | SQL
+html | css | javascript | react | redux | node | SQL | Python
 
 
 [twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
