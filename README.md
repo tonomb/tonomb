@@ -20,7 +20,7 @@
 
 ### Skills
 
-html | css | javascript | react | redux | node | SQL | Python
+HTML | CSS | Javascript | React | redux | Node.js | SQL | Python | Next.js 
 
 
 [twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
