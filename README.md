@@ -1,4 +1,8 @@
-### Antonio MB 
+### Antonio MB :space_invader:
+
+I am constantly testing and building out Ideas. I have a passion for startups, reading, and podcasts.
+
+---
 
 ### Now
 
@@ -23,4 +27,4 @@
 HTML | CSS | Javascript | React | redux | Node.js | SQL | Python | Next.js 
 
 
-[twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
+[Twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
