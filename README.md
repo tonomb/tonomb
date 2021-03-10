@@ -6,17 +6,17 @@ I am constantly testing and building out Ideas. I have a passion for startups, r
 
 ### Now
 
-* web dev student at [lambda](https://lambdaschool.com/)
-
-* co-founder at [pictoset](https://www.pictoset.com/)
+* co-founder at [somos](http://siempresomos.com/)
 
 * writing at [the lindy library](https://thelindylibrary.org/)
 
 ### Before
 
-* co-founder at [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
+* full-stack web development at [lambda](https://lambdaschool.com/)
 
-* yc startup school 2018, 2017
+* co-founder at [pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
+
+* yc startup school 2021, 2018, 2017
 
 * stanford summer institute for general management
 
@@ -24,7 +24,7 @@ I am constantly testing and building out Ideas. I have a passion for startups, r
 
 ### Skills
 
-HTML | CSS | Javascript | React | redux | Node.js | SQL | Python | Next.js 
+HTML | CSS | Javascript | React | redux | Node.js | SQL | Python | Next.js | Liquid
 
 
 [Twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
