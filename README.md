@@ -1,6 +1,6 @@
 ### Antonio MB :space_invader:
 
-Building [somos](http://siempresomos.com/)
+Building [SOMOS](http://siempresomos.com/)
 
 I am constantly testing and building out Ideas. I have a passion for startups, reading, and podcasts.
 
