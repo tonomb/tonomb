@@ -1,26 +1,30 @@
 ### Antonio MB :space_invader:
 
+Building [somos](http://siempresomos.com/)
+
 I am constantly testing and building out Ideas. I have a passion for startups, reading, and podcasts.
+
+[#LF3 Fellow](https://latitud.com/)
 
 ---
 
 ### Now
 
-* co-founder at [somos](http://siempresomos.com/)
+* co-founder at [SOMOS](http://siempresomos.com/)
 
 * writing at [the lindy library](https://thelindylibrary.org/)
 
 ### Before
 
-* full-stack web development at [lambda](https://lambdaschool.com/)
+* Full-Stack Web Development at [Lambda](https://lambdaschool.com/)
 
-* co-founder at [pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
+* Co-founder at [pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
 
-* yc startup school 2021, 2018, 2017
+* YC startup school 2021, 2018, 2017
 
-* stanford summer institute for general management
+* Stanford Summer Institute for General Management
 
-* industrial engineering at ibero
+* Industrial Engineering at Ibero
 
 ### Skills
 
