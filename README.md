@@ -1,8 +1,8 @@
 ### Antonio MB :space_invader:
 
-Building [SOMOS](http://siempresomos.com/)
+Building [SOMOS](http://somos.me/)
 
-I am constantly testing and building out Ideas. I have a passion for startups, reading, and podcasts.
+I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 [#LF3 Fellow](https://latitud.com/)
 
@@ -10,7 +10,7 @@ I am constantly testing and building out Ideas. I have a passion for startups, r
 
 ### Now
 
-* co-founder at [SOMOS](http://siempresomos.com/)
+* co-founder at [SOMOS](http://somos.me/)
 
 * writing at [the lindy library](https://thelindylibrary.org/)
 
@@ -24,7 +24,7 @@ I am constantly testing and building out Ideas. I have a passion for startups, r
 
 * Stanford Summer Institute for General Management
 
-* Industrial Engineering at Ibero
+* Industrial Engineering at Universidad Iberoamericana
 
 ### Skills
 
