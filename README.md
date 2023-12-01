@@ -1,6 +1,6 @@
 ### Antonio MB :space_invader:
 
-Building [SOMOS](http://somos.me/)
+Building [SOMOS](http://somos.me/) | TechStars 23
 
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
@@ -16,6 +16,8 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Before
 
+* Latitud Fellow #LF3
+
 * Full-Stack Web Development at [Lambda](https://lambdaschool.com/)
 
 * Co-founder at [pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
@@ -28,7 +30,7 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Skills
 
-HTML | CSS | Javascript | React | redux | Node.js | SQL | Python | Next.js | Liquid
+HTML | CSS | Javascript | React | redux | Typescript | Node.js | SQL | Python | Next.js | Liquid | MongoDB | Nest.JS
 
 
-[Twitter](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
+[x](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
