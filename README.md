@@ -4,8 +4,6 @@ Building [SOMOS](http://somos.me/) | TechStars 23
 
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
-[#LF3 Fellow](https://latitud.com/)
-
 ---
 
 ### Now
@@ -16,7 +14,7 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Before
 
-* Latitud Fellow #LF3
+* [Latitud Fellow](https://latitud.com/) #LF3
 
 * Full-Stack Web Development at [Lambda](https://lambdaschool.com/)
 
