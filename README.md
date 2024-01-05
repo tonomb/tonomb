@@ -14,6 +14,8 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Before
 
+* [TechStars 23](https://www.techstars.com)
+
 * [Latitud Fellow](https://latitud.com/) #LF3
 
 * Full-Stack Web Development at [Lambda](https://lambdaschool.com/)
@@ -28,7 +30,7 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Skills
 
-HTML | CSS | Javascript | React | redux | Typescript | Node.js | SQL | Python | Next.js | Liquid | MongoDB | Nest.JS
+HTML | CSS | Javascript | React | redux | Typescript | Node.js | SQL | Python | Next.js | Liquid | MongoDB | Nest.JS | React Native
 
 
 [x](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
