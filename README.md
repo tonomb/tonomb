@@ -20,7 +20,7 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 * Full-Stack Web Development at [Lambda](https://lambdaschool.com/)
 
-* Co-founder at [Pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
+* Co-founder at [pictoset](https://www.pictoset.com/), [loro](https://www.myloro.com/), [osom](http://www.osom.io/)
 
 * YC Startup School 2021, 2018, 2017
 
@@ -30,7 +30,17 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Skills
 
-HTML | CSS | Javascript | React | redux | Typescript | Node.js | SQL | Python | Next.js | Liquid | MongoDB | Nest.JS | React Native
+##### Languages and frameworks:  
+React | React Native | Next.js | Javascript | Typescript | Node.js |Express | Nest.JS | Liquid | SQL | gRCP
+
+##### Technologies and tools:
+Postgres | MongoDB | Prisma ORM | AWS | Google Cloud | PubSub | Git | Jest | Vite | Cypress | Docker
+
+##### Working Knowledge:              
+Python 
+
+
+
 
 
 [x](https://twitter.com/tono_mtzb) | [Linkedin](https://www.linkedin.com/in/antoniomtzb/) 
