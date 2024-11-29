@@ -14,7 +14,7 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Before
 
-* co-founder at [SOMOS](http://somos.me/) | [TechStars 23](https://www.techstars.com)
+* Co-founder at [SOMOS](http://somos.me/) | [TechStars 23](https://www.techstars.com)
 
 * [Latitud Fellow](https://latitud.com/) #LF3
 
