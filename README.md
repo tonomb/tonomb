@@ -30,8 +30,8 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Skills
 
-##### Languages and frameworks:  
-React | React Native | Next.js | Javascript | Typescript | Node.js |Express | Nest.JS | Liquid | SQL | gRCP
+##### Languages and Frameworks:  
+React | React Native | Next.js | Javascript | Typescript | Node.js | Express | Nest.JS | Liquid | SQL | gRCP
 
 ##### Technologies and tools:
 Postgres | MongoDB | Prisma ORM | AWS | Google Cloud | PubSub | Git | Jest | Vite | Cypress | Docker
