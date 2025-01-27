@@ -1,6 +1,6 @@
 ### Antonio MB :space_invader:
 
-Helping build [Runa](https://runahr.com/mx/home/)
+Helping build [Kontigo YC(S24)](https://kontigo.lat/)
 
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
@@ -8,11 +8,13 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Now
 
-* Software Engineer at [Runa](https://runahr.com/mx/home/)
+* Founding Engineer at [Kontigo YC(S24)](https://kontigo.lat/)
 
 * Writing at [the lindy library](https://thelindylibrary.org/)
 
 ### Before
+
+* Software Engineer at [Runa](https://runahr.com/mx/home/)
 
 * Co-founder at [SOMOS](http://somos.me/) | [TechStars 23](https://www.techstars.com)
 
