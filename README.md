@@ -1,14 +1,12 @@
 ### Antonio MB :space_invader:
 
-Helping build [Kontigo YC (S24)](https://kontigo.lat/)
-
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ---
 
 ### Now
 
-* Founding Engineer at [Kontigo YC (S24)](https://kontigo.lat/)
+* Building Something New at [Nota VC](https://nota.vc/)
 
 * Writing at [the lindy library](https://thelindylibrary.org/)
 
