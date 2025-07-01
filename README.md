@@ -6,6 +6,8 @@ I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
 ### Now
 
+* Software Engineer at [Cloudflare](https://www.cloudflare.com/)
+
 * Building Something New at [Nota VC](https://nota.vc/)
 
 * Writing at [the lindy library](https://thelindylibrary.org/)
