@@ -2,8 +2,6 @@
 
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
-Helping build a better Internet [@cloudflare](https://github.com/cloudflare)
-
 ---
 
 ### Now
