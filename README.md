@@ -2,13 +2,15 @@
 
 I am constantly testing and building out Ideas. Ideas in = Ideas Out.
 
+Helping build a better Internet [@cloudflare](https://github.com/cloudflare)
+
 ---
 
 ### Now
 
 * Software Engineer at [Cloudflare](https://www.cloudflare.com/)
 
-* Building Something New at [Nota VC](https://nota.vc/)
+* Playing around with projects at [Nota VC](https://nota.vc/)
 
 * Writing at [the lindy library](https://thelindylibrary.org/)
 
